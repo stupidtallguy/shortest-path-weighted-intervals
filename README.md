@@ -107,14 +107,6 @@ Enter the input and finish with:
 
 ---
 
-## Project Structure
-'''
-.
-├── DS.py
-└── README.md
-'''
----
-
 ## Notes
 
 - The first interval in sorted order by right endpoint is treated as the source.
